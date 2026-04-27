@@ -1,6 +1,6 @@
 #!/usr/bin/zsh/env zsh
 # /etc/zsh/zprofile
-# Updated ArchReal 2026-04-25 10:33 Sat
+# Updated ArchReal 2026-04-27 16:02 Mon
 #
 # To Edit this global file, owend by root, use sudo nvim
 # Or use the Ctrl+e mapping in vifm (:!sudo -E nvim "%f")
